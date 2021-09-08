@@ -1,0 +1,39 @@
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10%;
+    border: 20px inset yellowgreen;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    
+
+}
+ /*referente a imagem*/
+
+body {
+    background-color: cornsilk;
+}
+ /* referente ao corpo do texto*/
+ 
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+/* referente ao Titulo com um nivel maior*/
+ 
+h2{
+    text-align: center;
+    color:darkblue;
+}
+/* referente ao um titulo com um nivel menor*/
+ 
+p  {
+    text-align: center;
+    color:darkcyan;
+    
+
+}
+/*referente ao um paragrafo*/
+
