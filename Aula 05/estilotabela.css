@@ -1,0 +1,27 @@
+table, tr{
+    border: 1px solid red;
+    border-collapse: collapse;
+    background-color: green;
+}
+
+td, th {
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
+tr:first-child {
+    background-color: blue;
+    color: whitesmoke;
+}
+
+td:last-child {
+    background-color: purple;
+    color:white;
+    text-align: center ;
+
+}
+
+tr:hover {
+    opacity: 0.8;
+}
+
